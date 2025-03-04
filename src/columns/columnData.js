@@ -52,21 +52,6 @@ export const NGOColumns = [
     width: 230,
   },
   {
-    field: "street",
-    headerName: "Street",
-    width: 200,
-  },
-  {
-    field: "city",
-    headerName: "City",
-    width: 200,
-  },
-  {
-    field: "state",
-    headerName: "State",
-    width: 200,
-  },
-  {
     field: "pincode",
     headerName: "Pincode",
     width: 150,
@@ -121,7 +106,7 @@ export const ReportColumns = [
     width: 200,
   },
   {
-    field: "state",
+    field: "area",
     headerName: "State",
     width: 200,
   },

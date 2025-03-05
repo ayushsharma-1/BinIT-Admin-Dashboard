@@ -29,8 +29,7 @@ export const firebaseConfig = {
   measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID
 };
 
-// ✅ Debugging: Check if environment variables are loading
-console.log("Firebase Config:", firebaseConfig);
+
 
 // ✅ Initialize Firebase
 const app = initializeApp(firebaseConfig);

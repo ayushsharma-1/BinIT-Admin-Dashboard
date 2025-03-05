@@ -17,7 +17,7 @@
     "axios": "^1.8.1",
     "caniuse-lite": "^1.0.30001702",
     "depcheck": "^1.4.3",
-    "firebase": "^9.23.0",
+    "firebase": "^9.9.3",
     "ncu": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
